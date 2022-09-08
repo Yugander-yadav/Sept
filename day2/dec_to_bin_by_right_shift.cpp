@@ -2,7 +2,7 @@
 #include<math.h>
 using namespace std;
 int main(){
-    int a =5;
+    int a =8;
     int number=0,count=0;
     while(a!=0){
        
